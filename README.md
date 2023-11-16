@@ -20,9 +20,9 @@ The lists of the materials in the MPS and MPL datasets are presented in [the pub
 The crystal structures of all materials in the source calculations datasets are available at the Materials Project database [3].
 All target experimental datasets are publicly available in their original papers, as presented in Table 1 of the paper.
 
-------
 
-[1] Lee, J., Seko, A., Shitara, K., Nakayama, K., & Tanaka, I. (2016). Prediction model of band gap for inorganic compounds by combination of density functional theory calculations and machine learning techniques. Physical Review B, 93(11), 115104.
+## References
+[1] Lee, J., Seko, A., Shitara, K., Nakayama, K., & Tanaka, I. (2016). Prediction model of band gap for inorganic compounds by combination of density functional theory calculations and machine learning techniques. Physical Review B, 93(11), 115104.  
 
 [2] Kim, C., Huan, T. D., Krishnan, S., & Ramprasad, R. (2017). A hybrid organic-inorganic perovskite dataset. Scientific Data, 4(1), 1-11.
 
