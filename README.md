@@ -22,7 +22,7 @@ All target experimental datasets are publicly available in their original papers
 
 
 ## References
-[1] Lee, J., Seko, A., Shitara, K., Nakayama, K., & Tanaka, I. (2016). Prediction model of band gap for inorganic compounds by combination of density functional theory calculations and machine learning techniques. Physical Review B, 93(11), 115104.  
+[1] Lee, J., Seko, A., Shitara, K., Nakayama, K., & Tanaka, I. (2016). Prediction model of band gap for inorganic compounds by combination of density functional theory calculations and machine learning techniques. Physical Review B, 93(11), 115104.
 
 [2] Kim, C., Huan, T. D., Krishnan, S., & Ramprasad, R. (2017). A hybrid organic-inorganic perovskite dataset. Scientific Data, 4(1), 1-11.
 
