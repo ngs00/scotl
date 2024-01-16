@@ -20,7 +20,7 @@ The lists of the materials in the MPS and MPL datasets are presented in [the pub
 The crystal structures of all materials in the source calculations datasets are available at the Materials Project database [3].
 All target experimental datasets are publicly available in their original papers, as presented in Table 1 of the paper.
 
-# Dataset links
+### Dataset links
 - GWBG dataset: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.115104
 - HOIP-HSE dataset: https://datadryad.org/stash/dataset/doi:10.5061/dryad.gq3rg
 - MPS and MPL datasets: https://next-gen.materialsproject.org/
